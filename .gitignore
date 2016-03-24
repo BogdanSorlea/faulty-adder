@@ -1,0 +1,8 @@
+*.log
+*.jou
+.Xil
+.ngc2edfcache
+financial-accelerator.cache
+financial-accelerator.sim
+financial-accelerator.hw
+

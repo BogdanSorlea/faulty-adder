@@ -1,0 +1,22 @@
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_drp.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_eq.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_rate.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_reset.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_sync.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gtp_pipe_rate.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gtp_pipe_drp.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gtp_pipe_reset.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_user.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_pipe_wrapper.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_qpll_drp.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_qpll_reset.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_qpll_wrapper.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_rxeq_scan.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gt_wrapper.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gt_common.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gtp_cpllpd_ovrd.v" 
+verilog xil_defaultlib "../../../ip/pcie_a7_vivado/source/pcie_a7_vivado_gtx_cpllpd_ovrd.v" 
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

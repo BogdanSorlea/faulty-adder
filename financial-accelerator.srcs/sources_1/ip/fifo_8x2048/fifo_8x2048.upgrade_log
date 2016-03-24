@@ -1,0 +1,75 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Thu Mar 24 22:36:19 2016
+| Host         : devbox running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg676-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_8x2048'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of fifo_8x2048 from xilinx.com:ip:fifo_generator:12.0 (Rev. 1) to xilinx.com:ip:fifo_generator:13.0 (Rev. 1)
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading IP 'fifo_8x2048'.
+
+
+-upgrade has added interface 'core_clk'
+
+3. Upgrade messages
+-------------------
+
+Added parameter Output_Register_Type with value Embedded_Reg (source 'default')
+Added parameter Enable_Safety_Circuit with value false (source 'default')
+Added parameter Enable_ECC_Type with value Hard_ECC (source 'default')
+WARNING: upgrade cannot set value of parameter Slave_interface_Clock_enable_memory_mapped to false : there is no parameter called Slave_interface_Clock_enable_memory_mapped
+WARNING: upgrade cannot set value of parameter Master_interface_Clock_enable_memory_mapped to false : there is no parameter called Master_interface_Clock_enable_memory_mapped
+
+
+
+
+
+
+Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------
+| Tool Version : Vivado v.2014.2 (win64) Build 932637 Wed Jun 11 13:33:10 MDT 2014
+| Date         : Sat Sep 26 13:45:09 2015
+| Host         : HPBox running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg676-1
+-----------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_8x2048'
+
+1. Summary
+----------
+
+SUCCESS in the update of fifo_8x2048 (xilinx.com:ip:fifo_generator:12.0 (Rev. 1)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------
+| Tool Version : Vivado v.2014.2 (win64) Build 932637 Wed Jun 11 13:33:10 MDT 2014
+| Date         : Sat Sep 26 12:36:53 2015
+| Host         : HPBox running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+-----------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_8x2048'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of fifo_8x2048 (xilinx.com:ip:fifo_generator:12.0) to (Rev. 1)
+
